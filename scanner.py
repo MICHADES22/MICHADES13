@@ -1,6 +1,6 @@
 import socket
 
-target = "scname.nmap.org"
+target = "scanme.nmap.org"
 start_port = 1
 end_port = 1024
 
